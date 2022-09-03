@@ -4,8 +4,8 @@
 #   Amaury Libert <amaury-libert@hotmail.com> de Blabla Linux <https://blablalinux.be>
 #
 # Description:
-#   Script qui va supprimer une série de paquets afin d'obtenir une Linux Mint minimal.
-#   Script that will remove a series of packages in order to obtain a minimal Linux Mint.
+#   Script qui va supprimer une série de paquets afin d'obtenir une Linux Mint Cinnamon 21 minimal.
+#   Script that will remove a series of packages in order to obtain a minimal Linux Mint Cinnamon 21.
 #
 # Préambule Légal:
 # 	Ce script est un logiciel libre.
