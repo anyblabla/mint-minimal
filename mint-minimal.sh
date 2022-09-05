@@ -344,7 +344,6 @@ xreader-dbg \
 xviewer \
 xviewer-dbg \
 xviewer-plugins \
-apt autoremove
 #
 echo "Nettoyage..."
 apt autoremove
