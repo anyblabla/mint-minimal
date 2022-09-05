@@ -9,5 +9,4 @@ chmod +x mint-minimal.sh
 sudo ./mint-minimal.sh
 
 # Demonstration/Démonstration
-Coming...
-À venir
+https://youtu.be/Wba56Nigcnw
