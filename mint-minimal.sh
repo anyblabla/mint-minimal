@@ -302,7 +302,6 @@ pix-dbg \
 python3-uno \
 redshift-gtk \
 rhythmbox \
-rhythmbox \
 rhythmbox-data \
 rhythmbox-plugins \
 rhythmbox-plugin-tray-icon \
