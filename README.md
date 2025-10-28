@@ -1,12 +1,12 @@
 # 🌿 `mint-minimal`
 
-## Script de Minimalisation pour Linux Mint Cinnamon 21 / Minimalization Script for Linux Mint Cinnamon 21
+## Script de minimalisation pour Linux Mint Cinnamon 21 / Minimalization Script for Linux Mint Cinnamon 21
 
 Ce projet est une solution simple pour obtenir une installation de **Linux Mint 21 Cinnamon** allégée et optimisée, en supprimant les paquets et applications non essentiels post-installation.
 
 -----
 
-### 🇫🇷 Description du Projet
+### 🇫🇷 **Description du projet**
 
 Ce script a été créé pour transformer une installation standard de Linux Mint 21 (ou supérieure) avec l'environnement Cinnamon en une **version véritablement minimale**. Il supprime une liste prédéfinie de logiciels et d'utilitaires préinstallés, vous offrant un point de départ plus léger pour construire votre système personnalisé.
 
@@ -18,7 +18,7 @@ Ce script a été créé pour transformer une installation standard de Linux Min
   * Divers accessoires et utilitaires non essentiels
   * *Le gestionnaire de fichiers, le navigateur Firefox et quelques utilitaires clés sont conservés pour garantir un minimum de fonctionnalité.*
 
-### 🇬🇧 Project Description
+### 🇬🇧 **Project Description**
 
 This script is a simple solution to achieve a lighter, optimized **Linux Mint 21 Cinnamon** installation by removing non-essential packages and applications post-installation.
 
@@ -34,7 +34,7 @@ The script is designed to transform a standard Linux Mint 21 (or newer) installa
 
 -----
 
-### ⚠️ Avertissement et Prérequis
+### ⚠️ **Avertissement et prérequis**
 
 **Le script DOIT être exécuté sur une installation de Linux Mint Cinnamon 21 fraîchement installée.** L'exécution sur un système déjà configuré pourrait supprimer des logiciels ou des dépendances que vous utilisez activement.
 
@@ -43,7 +43,7 @@ The script is designed to transform a standard Linux Mint 21 (or newer) installa
 
 -----
 
-### 🛠️ Installation et Utilisation / Installation and Usage
+### 🛠️ **Installation et utilisation / Installation and Usage**
 
 Suivez ces étapes pour télécharger et exécuter le script :
 
@@ -66,22 +66,22 @@ Suivez ces étapes pour télécharger et exécuter le script :
     sudo ./mint-minimal.sh
     ```
 
-    Le script vous demandera votre mot de passe et procédera automatiquement à la suppression des paquets.
+Le script vous demandera votre mot de passe et procédera automatiquement à la suppression des paquets.
 
 -----
 
-### 📺 Démonstration
+### 📺 **Démonstration**
 
 Pour voir l'effet du script avant de l'exécuter, vous pouvez consulter la démonstration vidéo complète sur YouTube :
 
-| Vidéo | Chaîne |
-| :--- | :--- |
-| **Linux Mint Cinnamon 21 MINIMAL** | Blabla Linux |
-| [Regarder la Démonstration](http://www.youtube.com/watch?v=Wba56Nigcnw) | |
+| Vidéo | Chaîne | Lien |
+| :--- | :--- | :--- |
+| **Linux Mint Cinnamon 21 MINIMAL** | Blabla Linux | [Regarder la Démonstration](http://www.youtube.com/watch?v=Wba56Nigcnw) |
 
 -----
 
-### 📝 Licence
+### 📝 **Licence**
 
-Ce projet est sous licence **[À compléter - Ex: MIT, GPL, etc.]**.
-http://googleusercontent.com/youtube_content/0
+Ce projet est sous licence GNU GPL (v2.0).
+
+-----
