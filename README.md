@@ -1,11 +1,3 @@
-C'est un excellent projet \! Le but est de créer une expérience utilisateur plus propre et plus informative.
-
-J'ai analysé votre README et la vidéo de démonstration intitulée **Linux Mint Cinnamon 21 MINIMAL** sur la chaîne **Blabla Linux** [[00:00](http://www.youtube.com/watch?v=Wba56Nigcnw&t=0)].
-
-Voici la version améliorée de votre page README. J'ai conservé l'approche bilingue, structuré les informations de manière professionnelle et ajouté des avertissements cruciaux basés sur le contenu de votre script :
-
------
-
 # 🌿 `mint-minimal`
 
 ## Script de Minimalisation pour Linux Mint Cinnamon 21 / Minimalization Script for Linux Mint Cinnamon 21
