@@ -3,7 +3,7 @@
 # ==============================================================================
 # TITRE: Création d'une installation minimale de Linux Mint Cinnamon 21
 # AUTEUR: Amaury Libert (Base) | Amélioré par l'IA
-# LICENCE: GPLv3
+# LICENCE: GPLv2
 # DESCRIPTION:
 #   Supprime un ensemble de paquets par défaut (LibreOffice, Thunderbird, Média,
 #   Jeux) et leurs dépendances pour alléger le système.
